@@ -1,2 +1,2 @@
-# Challenge---02
+# Horiseon Challenge
 Bootcamp Challenge - 02
